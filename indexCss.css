@@ -1,0 +1,14 @@
+h1{
+	background-color: skyblue;
+	color: red;
+}
+h2{
+	background-color: pink;
+	color:mediumblue;
+	text-decoration: wavy;
+}
+body{
+	background-color: yellow;
+	opacity: 0.5;
+	color:blue;
+}
